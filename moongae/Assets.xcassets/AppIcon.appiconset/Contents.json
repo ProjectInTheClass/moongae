@@ -33,7 +33,7 @@
     {
       "size" : "60x60",
       "idiom" : "iphone",
-      "filename" : "Icon-60@2x.png",
+      "filename" : "moong3.png",
       "scale" : "2x"
     },
     {
@@ -87,9 +87,12 @@
       "scale" : "2x"
     },
     {
-      "size" : "1024x1024",
       "idiom" : "ios-marketing",
+<<<<<<< HEAD
       "filename" : "logo_moongae.png",
+=======
+      "size" : "1024x1024",
+>>>>>>> cc3d4206fdccdbba332cfbf14bfae500dd717ec1
       "scale" : "1x"
     }
   ],
