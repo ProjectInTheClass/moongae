@@ -1428,11 +1428,11 @@
             </objects>
             <point key="canvasLocation" x="932" y="1008.6206896551724"/>
         </scene>
-        <!--Mypage-->
+        <!--마이페이지-->
         <scene sceneID="Qw1-iu-eFB">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="VOl-Dq-5GF" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Mypage" id="Zvr-bp-KLz"/>
+                    <tabBarItem key="tabBarItem" title="마이페이지" id="Zvr-bp-KLz"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="l94-tN-23u">
                         <rect key="frame" x="0.0" y="44" width="375" height="44"/>
